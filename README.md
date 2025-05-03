@@ -53,13 +53,7 @@ The model's performance is evaluated using:
 - Validation accuracy
 - Test accuracy
 
-### Optimization Progress
-![GWO Optimization Progress](gwo_optimization_progress.png)
-*Figure 1: Grey Wolf Optimizer convergence showing the improvement in model parameters over iterations*
 
-### Training History
-![Model Training History](final_model_training.png)
-*Figure 2: Model training history showing accuracy and loss metrics over epochs*
 
 ## 🛠️ Requirements
 
